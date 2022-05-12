@@ -6,13 +6,14 @@
 
 You can find a UI for ArLink on the [Arweave Permaweb](https://arweave.net/CodqSDWXY5CALyMf9oFLCtTDRYdW4lV9X9O7j-73g1U) or at [arlink.tateberenbaum.com](https://arlink.tateberenbaum.com).
 
-## Why?........
+## Why?........ hey i am doing demo in tachyon
 
 I created ArLink with the intentions of establishing a way to get a user's Ethereum wallet address from the Arweave. By having Arweave users link their accounts to other blockchains, profit-sharing communities can choose to pay out users in other cryptocurrencies not on the *weave*.
 
 ## Tag Specification.....
 
-See [this](https://viewblock.io/arweave/tx/keJVC7chkdE_NTQpiewwRJP7rom2DnQSNy9L3STNp_k) example:...........asd
+See [this](https://viewblock.io/arweave/tx/keJVC7chkdE_NTQpiewwRJP7rom2DnQSNy9L3STNp_k) example:.........................
+=======
 ```json
 Application: "ArLink"
 Chain: "ETH"
@@ -66,7 +67,7 @@ query {
 
 I'd love to continue expanding this specification with the help of anyone interested. Feel free to fork and make a PR with any additions (or fixes)!....
 
-### Frontend Project Setup
+### Frontend Project Setup...
 ```
 yarn install
 ```
@@ -81,7 +82,7 @@ yarn serve
 yarn build
 ```
 
-#### Lints and fixes files
+#### Lints and fixes files ....
 ```
 yarn lint
 ```
