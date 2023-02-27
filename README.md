@@ -31,7 +31,7 @@ query {
   transactions(
     owners: ["pvPWBZ8A5HLpGSEfhEmK1A3PfMgB_an8vVS6L14Hsls"]
     tags: [
-      { name: "Application", values: "ArLink" }
+      { name: "Application", values: "ArLink" }.,.,..
     ]
   ) {
     edges {
